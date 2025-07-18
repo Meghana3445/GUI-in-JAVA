@@ -1,0 +1,14 @@
+AWT - It stands for Abstract Window Toolkit.
+It is the set of Java classes which allows to create GUI applications where GUI stands for graphical user interface.
+
+GUI components are used to take the i/p from the user in a user-friendly manner.
+Following are the components used in GUI programming:
+
+(i) Label
+(ii) Button
+(iii) Text-field
+(iv) Canvas
+(v) Containers
+(vi) Option
+(vii) Select
+(viii) Checkbox
